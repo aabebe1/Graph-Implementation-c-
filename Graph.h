@@ -1,6 +1,6 @@
 // File: Graph.h
 //
-// CMSC 341 Spring 2017
+// 
 //
 // Header file for Graph class
 //

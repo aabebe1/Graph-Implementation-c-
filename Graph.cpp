@@ -2,7 +2,7 @@
  * graph.cpp
  *
  *  Created on: Feb 14, 2017
- *      Author: Asebot
+ *     
  */
 
 
